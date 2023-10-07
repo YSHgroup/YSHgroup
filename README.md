@@ -1,6 +1,6 @@
 - 👋 Hi, This is @YSHgroup
 - 👀 Interested in Web development and blockchain.
-- 🌱 I’m currently learning new tech in web3
+- 🌱 I’m currently learning new tech in Svelte.
 - 💞️ I’m looking to collaborate on this.
 - 📫 Email: david.dev100@outlook.com
 - 📫 Skype: live:.cid.abe2f56b5909b6ab
