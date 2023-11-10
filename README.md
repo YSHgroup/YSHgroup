@@ -1,8 +1,8 @@
 ## Hi there 👋 Thanks for visiting my profile ✨
- - `I am a Full-Stack Developer, who is passionate about coding and technology.`
- - `I hope to get a chance to work with you in the future.`
- - `I wish you good luck in the process of visiting my profile.`
- - `Feedback is always welcome.`
+ > - I am a Full-Stack Developer, who is passionate about coding and technology.
+ > - I hope to get a chance to work with you in the future.
+ > - I wish you good luck in the process of visiting my profile.
+ > - Feedback is always welcome.
 >> - 📫 Email: david.dev100@outlook.com
 >> - 📫 Skype: live:.cid.abe2f56b5909b6ab
 <div align="center">
