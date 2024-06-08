@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/outlook-black?style=flat-square&logo=gmail" href="mailto:david.dev100@outlook.com" />
 </div>
 
-   ![](https://readme-typing-svg.herokuapp.com/?lines=✨Full-Stack%20Developer✨;✨Front-End%20Developer✨;✨React/Next%20Master✨;✨Vue/Nuxt%Expert✨;5%2B%20years%20of%20coding%20experience;📖Always%20studying%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
+   ![](https://readme-typing-svg.herokuapp.com/?lines=✨Full-Stack%20Developer✨;✨Front-End%20Developer✨;✨React/Next%20Master✨;✨Vue/Nuxt%20Expert✨;5%2B%20years%20of%20coding%20experience;📖Always%20studying%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
     
     
   <img src="https://github-profile-trophy.vercel.app/?username=YSHgroup&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
