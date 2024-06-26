@@ -3,8 +3,7 @@
  > - I hope to get a chance to work with you in the future.
  > - I wish you good luck in the process of visiting my profile.
  > - Feedback is always welcome.
->> - 📫 Email: david.dev100@outlook.com
->> - 📫 Skype: live:.cid.abe2f56b5909b6ab
+ 
 <div align="center">
   <div>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=YSHgroup.YSHgroup" />
@@ -24,24 +23,15 @@
 
    ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YSHgroup&layout=compact&theme=ayu-mirage&langs_count=8)
 </div>
-<h1>Certifications! 🏆</h1>
-<Br>
-  
-|[![](https://img.shields.io/badge/Introduction%20to%20Python-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Introduction%20to%20Python-1.jpg)|[![](https://img.shields.io/badge/Intermediate%20Python-blue?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Intermediate%20Python-1.jpg)|[![](https://img.shields.io/badge/Machine%20Learning%20for%20Everyone-green?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Machine%20Learning%20for%20Everyone-1.jpg)|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-I-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20I-1.jpg)|
-|---|---|---|---|
-|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-II-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20II-1.jpg)|[![](https://img.shields.io/badge/Statistical%20Thinking%20in%20Python-purple?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Statistical%20Thinking%20in%20Python-1.jpg)|[![](https://img.shields.io/badge/Supervized%20Learning%20with%20Sklearn-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Supervized%20Learning%20with%20Scikit-Learn-1.jpg)|[![](https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge)](https://github.com/Aryagm)|
-  
- 
 
 <Br>
 <hr>
 
 <table>
     <tr>
+        <td><img src="https://img.icons8.com/color/2x/typescript.png" title="TypeScript" width="100" alt="TypeScript"></td> 
+        <td><img src="https://img.icons8.com/nolan/2x/javascript.png" title="JavaScript" width="100" alt="JavaScript"></td>
         <td><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" width="100" alt="React.js"></td>
-        <td><img src="https://img.icons8.com/color/2x/typescript.png" title="TypeScript" width="100" alt="TypeScript"></td>  
-        <td><img src="https://img.icons8.com/nolan/2x/github.png" title="Git" width="100" alt="Git"></td>
-        <td><img src="https://img.icons8.com/ios/452/solidity.png" title="Solidity" width="100" alt="Solidity"></td>
         <td><img src="https://img.icons8.com/color/2x/vue-js.png" title="Vue" width="100" alt="Vue.js"></td>
         <td><img src="https://img.icons8.com/color/2x/angularjs.png" title="Angular" width="100" alt="Angular.js"></td>
         <td><img src="https://img.icons8.com/color/2x/nodejs.png" title="Node.js" width="100" alt="node.js"></td>
@@ -49,10 +39,11 @@
         <td><img src="https://img.icons8.com/color/2x/css3.png" title="CSS3" width="100" alt="CSS3"></td>
         <td><img src="https://img.icons8.com/color/2x/bootstrap.png" title="Bootstrap" width="100" alt="Bootstrap"></td>
         <td><img src="https://img.icons8.com/color/2x/sass.png" title="Sass" width="100" alt="Sass"></td>
-        <td><img src="https://img.icons8.com/nolan/2x/javascript.png" title="JavaScript" width="100" alt="JavaScript"></td>
+        <td><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" width="100" alt="Python"></td>
+        <td><img src="https://img.icons8.com/color/2x/django.png" title="Django" width="100" alt="Django"></td>
+        <td><img src="https://img.icons8.com/ios/452/solidity.png" title="Solidity" width="100" alt="Solidity"></td>
         <td><img src="https://img.icons8.com/color/2x/tensorflow.png" title="TensorFlow" width="100" alt="TensorFlow"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" title="Laravel" width="100" alt="Laravel"></td>
-        <td><img src="https://img.icons8.com/color/2x/django.png" title="Django" width="100" alt="Django"></td>
     </tr>
     <tr>
         <td><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" title="Graphql" width="100" alt="Graphql"></td>
@@ -62,8 +53,8 @@
         <td><img src="https://img.icons8.com/color/2x/postgreesql.png" title="PostgreSQL" width="100" alt="PostgreSQL"></td>
         <td><img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++" width="100" alt="C++"></td>
         <td><img src="https://www.theconsolelogs.com/react/redux.svg" title="Redux" width="100" alt="Redux"></td>
+        <td><img src="https://img.icons8.com/nolan/2x/github.png" title="Git" width="100" alt="Git"></td>
         <td><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" width="100" alt="Linux"></td>
-        <td><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" width="100" alt="Python"></td>
         <td><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="Docker" width="100" alt="Docker"></td>
         <td><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" title="Dart" width="100" alt="Dart"></td>
         <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" title="Flutter" width="100" alt="Flutter"></td>
