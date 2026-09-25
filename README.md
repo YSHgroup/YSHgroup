@@ -18,8 +18,6 @@
   </div>
 
   ![](https://readme-typing-svg.herokuapp.com/?lines=✨Full-Stack%20Developer✨;✨Front-End%20Developer✨;✨React/Next%20Master✨;✨Vue/Nuxt%20Expert✨;6%2B%20years%20of%20coding%20experience)
-    
-  <img src="https://github-profile-trophy.vercel.app/?username=YSHgroup&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
