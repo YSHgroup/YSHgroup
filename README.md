@@ -20,16 +20,39 @@
   ![](https://readme-typing-svg.herokuapp.com/?lines=✨Full-Stack%20Developer✨;✨Front-End%20Developer✨;✨React/Next%20Master✨;✨Vue/Nuxt%20Expert✨;6%2B%20years%20of%20coding%20experience)
     
   <img src="https://github-profile-trophy.vercel.app/?username=YSHgroup&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  
-  ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=YSHgroup)
 
-  ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=YSHgroup&count_private=true&show_icons=true&theme=ayu-mirage)
-
-  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YSHgroup&layout=compact&theme=ayu-mirage&langs_count=8)
 </div>
 
 <br />
-<hr />
+<a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/others/colorful_line.gif"></a>
+
+<div style="display: flex; align-items: center">
+  <h1> 
+    My GitHub Stats 
+    <a href="#-my-github-stats--">
+      <img src = "https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/others/charts.gif" width = 35px height = 35px>
+    </a>
+  </h1>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="45%">
+        <a href="#-my-github-stats--"><img width="100%" src="https://gh-readme-profile.vercel.app/api?username=yshgroup&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" alt="yshgroup" /></a>
+    </td>
+    <td align="center" width="55%">
+        <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yshgroup&theme=2077" alt="yshgroup" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="40%">
+        <a href="#-my-github-stats--"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=yshgroup&theme=dark&hide_border=true&border_radius=9.4&ring=3A0CA3&fire=D62828&dates=00F5D4&sideLabels=FFC300&stroke=8338EC&currStreakLabel=FFC300" alt="yshgroup" /></a>
+    </td>
+    <td align="center" width="60%">
+        <a href="#-my-github-stats--"><img src="https://github-readme-activity-graph.vercel.app/graph?username=yshgroup&bg_color=ffffff&color=ff3845&line=7957d5&point=363636&area=true&hide_border=true" alt="yshgroup" /></a>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Tech Stack
 
