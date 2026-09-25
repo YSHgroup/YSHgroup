@@ -89,8 +89,16 @@
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### 🎧 Spotify Playing
+<h3 align="center">🎧 Spotify Playing</h3>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/3143hany3yzwitzlsdbaiiuprooa)
+<p align="center">
+  <a href="https://open.spotify.com/user/3143hany3yzwitzlsdbaiiuprooa">
+    <img
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=3143hany3yzwitzlsdbaiiuprooa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"
+      alt="Spotify Now Playing"
+    />
+  </a>
+</p>
 
 <!--
 ---
