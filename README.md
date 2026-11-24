@@ -35,13 +35,13 @@
 
 ---
 
-## `$ whoami`
+## `Who am I?`
 
 Software Engineer with **6+ years of experience** building web, mobile, and cloud-connected products. Focused on scalable applications, AI-driven experiences, and modern Web3 integrations.
 
-## `01 / Core capabilities`
+## `Core capabilities`
 
-<table>
+<table  align="center">
   <tr>
     <td width="50%" valign="top">
       <h3>◈ Frontend engineering</h3>
